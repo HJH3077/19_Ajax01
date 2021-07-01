@@ -1,0 +1,6 @@
+XML파일
+1. XML 파일의 첫줄은 무조건 <?xml version="1.0" encoding="UTF-8"?>
+2. 두번째 줄은 DTD(문서타입정의)는 XML 문서의 구조 및 해당 문서에서 사용하는 
+   적합한 요소(element=태그)와 속성을 정의한 것.
+3. DTD 아래에는 DTD에서 정의한 요소들이 존재한다.
+   RootElement => 전체 태그를 감싸고 있는 태그
